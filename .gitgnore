@@ -1,0 +1,26 @@
+# Arduino build artifacts
+build/
+*.elf
+*.hex
+*.eep
+*.map
+*.lst
+
+# Arduino IDE temp files
+*.bak
+
+# Proteus auto-generated backup files
+*.DBK
+*.pdsbak
+
+# Proteus lock files (created when project is open)
+*.ldb
+
+# Proteus log files
+*.log
+
+# OS files
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
